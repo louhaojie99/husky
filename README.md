@@ -2,8 +2,9 @@
 
 规范建设-可以放置错误的 git commit，git push
 
-中文文档：[Husky](https://www.breword.com/typicode-husky)
-英文文档：[Husky](https://typicode.github.io/husky/#/)
+- 中文文档：[Husky](https://www.breword.com/typicode-husky)
+- 英文文档：[Husky](https://typicode.github.io/husky/#/)
+- 详细配置可参考：https://juejin.cn/post/7038143752036155428#heading-8
 
 ## git commit 指南
 
